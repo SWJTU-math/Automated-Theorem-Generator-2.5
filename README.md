@@ -1,8 +1,8 @@
 ---
 
-# Automated Theorem Generator Δ1
+# Automated Theorem Generator Δ2.5
 
-**User Manual v1.2.1**
+**User Manual v1.2.5**
 
 ## System Requirements
 
